@@ -1,0 +1,1302 @@
+{
+    "ru_RU": {
+        "GPT-4": {
+            "Average": 6.68840579710145,
+            "Naturalness": 6.630434782608695,
+            "Instruction Following": 6.695652173913044,
+            "Coherence": 6.739130434782608,
+            "RankMin": 1,
+            "RankMax": 6
+        },
+        "Gemma-3-12B": {
+            "Average": 6.67391304347826,
+            "Naturalness": 6.391304347826087,
+            "Instruction Following": 6.8478260869565215,
+            "Coherence": 6.782608695652174,
+            "RankMin": 1,
+            "RankMax": 8
+        },
+        "Gemini-2": {
+            "Average": 6.644927536231883,
+            "Naturalness": 6.478260869565218,
+            "Instruction Following": 6.630434782608695,
+            "Coherence": 6.826086956521739,
+            "RankMin": 1,
+            "RankMax": 8
+        },
+        "Qwen3-235B": {
+            "Average": 6.6231884057971016,
+            "Naturalness": 6.3478260869565215,
+            "Instruction Following": 6.826086956521739,
+            "Coherence": 6.695652173913044,
+            "RankMin": 1,
+            "RankMax": 8
+        },
+        "Gemma-3-27B": {
+            "Average": 6.608695652173912,
+            "Naturalness": 6.173913043478261,
+            "Instruction Following": 6.956521739130435,
+            "Coherence": 6.695652173913044,
+            "RankMin": 1,
+            "RankMax": 10
+        },
+        "Mistral-Medium": {
+            "Average": 6.5942028985507255,
+            "Naturalness": 6.521739130434782,
+            "Instruction Following": 6.608695652173913,
+            "Coherence": 6.6521739130434785,
+            "RankMin": 1,
+            "RankMax": 10
+        },
+        "DeepSeek-V3": {
+            "Average": 6.543478260869564,
+            "Naturalness": 6.369565217391305,
+            "Instruction Following": 6.695652173913044,
+            "Coherence": 6.565217391304348,
+            "RankMin": 2,
+            "RankMax": 10
+        },
+        "Claude-4": {
+            "Average": 6.499999999999999,
+            "Naturalness": 6.260869565217392,
+            "Instruction Following": 6.565217391304348,
+            "Coherence": 6.673913043478261,
+            "RankMin": 1,
+            "RankMax": 11
+        },
+        "Llama-4-Maverick": {
+            "Average": 6.4855072463768115,
+            "Naturalness": 6.1521739130434785,
+            "Instruction Following": 6.673913043478261,
+            "Coherence": 6.630434782608695,
+            "RankMin": 5,
+            "RankMax": 11
+        },
+        "CommandA": {
+            "Average": 6.427536231884059,
+            "Naturalness": 5.978260869565218,
+            "Instruction Following": 6.6521739130434785,
+            "Coherence": 6.6521739130434785,
+            "RankMin": 5,
+            "RankMax": 11
+        },
+        "AyaExpanse-32B": {
+            "Average": 6.3188405797101455,
+            "Naturalness": 5.8478260869565215,
+            "Instruction Following": 6.478260869565218,
+            "Coherence": 6.630434782608695,
+            "RankMin": 8,
+            "RankMax": 12
+        },
+        "AyaExpanse-8B": {
+            "Average": 6.202898550724638,
+            "Naturalness": 5.630434782608695,
+            "Instruction Following": 6.391304347826087,
+            "Coherence": 6.586956521739131,
+            "RankMin": 11,
+            "RankMax": 12
+        },
+        "Llama-3": {
+            "Average": 5.862318840579711,
+            "Naturalness": 5.195652173913044,
+            "Instruction Following": 6.456521739130435,
+            "Coherence": 5.934782608695652,
+            "RankMin": 13,
+            "RankMax": 14
+        },
+        "Qwen2": {
+            "Average": 5.753623188405796,
+            "Naturalness": 5.3478260869565215,
+            "Instruction Following": 5.891304347826087,
+            "Coherence": 6.021739130434782,
+            "RankMin": 13,
+            "RankMax": 14
+        },
+        "Mistral-7B": {
+            "Average": 5.253623188405796,
+            "Naturalness": 4.3478260869565215,
+            "Instruction Following": 5.478260869565218,
+            "Coherence": 5.934782608695652,
+            "RankMin": 15,
+            "RankMax": 16
+        },
+        "CommandR7B": {
+            "Average": 5.086956521739132,
+            "Naturalness": 3.8043478260869565,
+            "Instruction Following": 5.913043478260869,
+            "Coherence": 5.543478260869565,
+            "RankMin": 15,
+            "RankMax": 16
+        }
+    },
+    "cs_CZ": {
+        "GPT-4": {
+            "Average": 6.376811594202899,
+            "Naturalness": 6.217391304347826,
+            "Instruction Following": 6.456521739130435,
+            "Coherence": 6.456521739130435,
+            "RankMin": 1,
+            "RankMax": 2
+        },
+        "Gemini-2": {
+            "Average": 6.318840579710144,
+            "Naturalness": 6.021739130434782,
+            "Instruction Following": 6.456521739130435,
+            "Coherence": 6.478260869565218,
+            "RankMin": 1,
+            "RankMax": 3
+        },
+        "DeepSeek-V3": {
+            "Average": 6.144927536231885,
+            "Naturalness": 6.0,
+            "Instruction Following": 6.239130434782608,
+            "Coherence": 6.195652173913044,
+            "RankMin": 2,
+            "RankMax": 7
+        },
+        "Mistral-Medium": {
+            "Average": 6.050724637681159,
+            "Naturalness": 5.891304347826087,
+            "Instruction Following": 6.217391304347826,
+            "Coherence": 6.043478260869565,
+            "RankMin": 3,
+            "RankMax": 8
+        },
+        "CommandA": {
+            "Average": 5.956521739130434,
+            "Naturalness": 5.760869565217392,
+            "Instruction Following": 6.065217391304348,
+            "Coherence": 6.043478260869565,
+            "RankMin": 3,
+            "RankMax": 10
+        },
+        "Gemma-3-27B": {
+            "Average": 5.927536231884057,
+            "Naturalness": 5.608695652173913,
+            "Instruction Following": 6.239130434782608,
+            "Coherence": 5.934782608695652,
+            "RankMin": 3,
+            "RankMax": 11
+        },
+        "AyaExpanse-32B": {
+            "Average": 5.920289855072465,
+            "Naturalness": 5.695652173913044,
+            "Instruction Following": 6.086956521739131,
+            "Coherence": 5.978260869565218,
+            "RankMin": 3,
+            "RankMax": 11
+        },
+        "Llama-4-Maverick": {
+            "Average": 5.8478260869565215,
+            "Naturalness": 5.586956521739131,
+            "Instruction Following": 6.065217391304348,
+            "Coherence": 5.891304347826087,
+            "RankMin": 4,
+            "RankMax": 12
+        },
+        "Qwen3-235B": {
+            "Average": 5.840579710144928,
+            "Naturalness": 5.586956521739131,
+            "Instruction Following": 6.065217391304348,
+            "Coherence": 5.869565217391305,
+            "RankMin": 5,
+            "RankMax": 12
+        },
+        "Gemma-3-12B": {
+            "Average": 5.840579710144928,
+            "Naturalness": 5.565217391304348,
+            "Instruction Following": 6.108695652173913,
+            "Coherence": 5.8478260869565215,
+            "RankMin": 4,
+            "RankMax": 12
+        },
+        "Claude-4": {
+            "Average": 5.702898550724639,
+            "Naturalness": 5.413043478260869,
+            "Instruction Following": 5.804347826086956,
+            "Coherence": 5.891304347826087,
+            "RankMin": 6,
+            "RankMax": 12
+        },
+        "AyaExpanse-8B": {
+            "Average": 5.6521739130434785,
+            "Naturalness": 5.369565217391305,
+            "Instruction Following": 5.739130434782608,
+            "Coherence": 5.8478260869565215,
+            "RankMin": 8,
+            "RankMax": 12
+        },
+        "Llama-3": {
+            "Average": 5.036231884057971,
+            "Naturalness": 4.543478260869565,
+            "Instruction Following": 5.565217391304348,
+            "Coherence": 5.0,
+            "RankMin": 13,
+            "RankMax": 14
+        },
+        "CommandR7B": {
+            "Average": 4.753623188405798,
+            "Naturalness": 4.565217391304348,
+            "Instruction Following": 4.978260869565218,
+            "Coherence": 4.717391304347826,
+            "RankMin": 13,
+            "RankMax": 14
+        },
+        "Qwen2": {
+            "Average": 4.3478260869565215,
+            "Naturalness": 3.869565217391304,
+            "Instruction Following": 4.695652173913044,
+            "Coherence": 4.478260869565218,
+            "RankMin": 15,
+            "RankMax": 16
+        },
+        "Mistral-7B": {
+            "Average": 4.268115942028985,
+            "Naturalness": 3.717391304347826,
+            "Instruction Following": 4.804347826086956,
+            "Coherence": 4.282608695652174,
+            "RankMin": 15,
+            "RankMax": 16
+        }
+    },
+    "hi_IN": {
+        "Gemini-2": {
+            "Average": 6.31159420289855,
+            "Naturalness": 6.086956521739131,
+            "Instruction Following": 6.434782608695652,
+            "Coherence": 6.413043478260869,
+            "RankMin": 1,
+            "RankMax": 3
+        },
+        "DeepSeek-V3": {
+            "Average": 6.260869565217392,
+            "Naturalness": 6.173913043478261,
+            "Instruction Following": 6.260869565217392,
+            "Coherence": 6.3478260869565215,
+            "RankMin": 1,
+            "RankMax": 6
+        },
+        "GPT-4": {
+            "Average": 6.159420289855072,
+            "Naturalness": 6.021739130434782,
+            "Instruction Following": 6.173913043478261,
+            "Coherence": 6.282608695652174,
+            "RankMin": 1,
+            "RankMax": 11
+        },
+        "Mistral-Medium": {
+            "Average": 6.137681159420289,
+            "Naturalness": 6.0,
+            "Instruction Following": 6.195652173913044,
+            "Coherence": 6.217391304347826,
+            "RankMin": 2,
+            "RankMax": 11
+        },
+        "Gemma-3-27B": {
+            "Average": 6.130434782608695,
+            "Naturalness": 5.978260869565218,
+            "Instruction Following": 6.195652173913044,
+            "Coherence": 6.217391304347826,
+            "RankMin": 2,
+            "RankMax": 11
+        },
+        "Qwen3-235B": {
+            "Average": 6.108695652173913,
+            "Naturalness": 5.934782608695652,
+            "Instruction Following": 6.130434782608695,
+            "Coherence": 6.260869565217392,
+            "RankMin": 2,
+            "RankMax": 11
+        },
+        "AyaExpanse-8B": {
+            "Average": 6.079710144927537,
+            "Naturalness": 5.891304347826087,
+            "Instruction Following": 6.108695652173913,
+            "Coherence": 6.239130434782608,
+            "RankMin": 3,
+            "RankMax": 11
+        },
+        "Llama-4-Maverick": {
+            "Average": 6.043478260869566,
+            "Naturalness": 5.934782608695652,
+            "Instruction Following": 6.0,
+            "Coherence": 6.195652173913044,
+            "RankMin": 3,
+            "RankMax": 11
+        },
+        "Claude-4": {
+            "Average": 6.0362318840579725,
+            "Naturalness": 5.913043478260869,
+            "Instruction Following": 6.065217391304348,
+            "Coherence": 6.130434782608695,
+            "RankMin": 3,
+            "RankMax": 13
+        },
+        "Gemma-3-12B": {
+            "Average": 5.992753623188406,
+            "Naturalness": 5.804347826086956,
+            "Instruction Following": 6.108695652173913,
+            "Coherence": 6.065217391304348,
+            "RankMin": 3,
+            "RankMax": 11
+        },
+        "AyaExpanse-32B": {
+            "Average": 5.978260869565218,
+            "Naturalness": 5.739130434782608,
+            "Instruction Following": 6.065217391304348,
+            "Coherence": 6.130434782608695,
+            "RankMin": 3,
+            "RankMax": 13
+        },
+        "Llama-3": {
+            "Average": 5.804347826086956,
+            "Naturalness": 5.6521739130434785,
+            "Instruction Following": 5.826086956521739,
+            "Coherence": 5.934782608695652,
+            "RankMin": 11,
+            "RankMax": 14
+        },
+        "CommandA": {
+            "Average": 5.775362318840579,
+            "Naturalness": 5.565217391304348,
+            "Instruction Following": 5.891304347826087,
+            "Coherence": 5.869565217391305,
+            "RankMin": 6,
+            "RankMax": 14
+        },
+        "CommandR7B": {
+            "Average": 5.644927536231883,
+            "Naturalness": 5.456521739130435,
+            "Instruction Following": 5.565217391304348,
+            "Coherence": 5.913043478260869,
+            "RankMin": 12,
+            "RankMax": 14
+        },
+        "Qwen2": {
+            "Average": 4.855072463768116,
+            "Naturalness": 4.391304347826087,
+            "Instruction Following": 4.956521739130435,
+            "Coherence": 5.217391304347826,
+            "RankMin": 15,
+            "RankMax": 15
+        },
+        "Mistral-7B": {
+            "Average": 3.5652173913043477,
+            "Naturalness": 3.1739130434782608,
+            "Instruction Following": 3.6956521739130435,
+            "Coherence": 3.8260869565217392,
+            "RankMin": 16,
+            "RankMax": 16
+        }
+    },
+    "id_ID": {
+        "GPT-4": {
+            "Average": 6.659420289855075,
+            "Naturalness": 6.673913043478261,
+            "Instruction Following": 6.673913043478261,
+            "Coherence": 6.630434782608695,
+            "RankMin": 1,
+            "RankMax": 2
+        },
+        "Llama-4-Maverick": {
+            "Average": 6.4347826086956506,
+            "Naturalness": 6.326086956521739,
+            "Instruction Following": 6.5,
+            "Coherence": 6.478260869565218,
+            "RankMin": 1,
+            "RankMax": 6
+        },
+        "CommandA": {
+            "Average": 6.384057971014493,
+            "Naturalness": 6.195652173913044,
+            "Instruction Following": 6.586956521739131,
+            "Coherence": 6.369565217391305,
+            "RankMin": 2,
+            "RankMax": 10
+        },
+        "Mistral-Medium": {
+            "Average": 6.3768115942028984,
+            "Naturalness": 6.3478260869565215,
+            "Instruction Following": 6.5,
+            "Coherence": 6.282608695652174,
+            "RankMin": 2,
+            "RankMax": 10
+        },
+        "Claude-4": {
+            "Average": 6.2608695652173925,
+            "Naturalness": 6.1521739130434785,
+            "Instruction Following": 6.260869565217392,
+            "Coherence": 6.369565217391305,
+            "RankMin": 2,
+            "RankMax": 11
+        },
+        "Gemini-2": {
+            "Average": 6.2101449275362315,
+            "Naturalness": 6.043478260869565,
+            "Instruction Following": 6.3478260869565215,
+            "Coherence": 6.239130434782608,
+            "RankMin": 2,
+            "RankMax": 13
+        },
+        "Gemma-3-27B": {
+            "Average": 6.202898550724639,
+            "Naturalness": 6.065217391304348,
+            "Instruction Following": 6.304347826086956,
+            "Coherence": 6.239130434782608,
+            "RankMin": 3,
+            "RankMax": 12
+        },
+        "Qwen3-235B": {
+            "Average": 6.1811594202898545,
+            "Naturalness": 6.021739130434782,
+            "Instruction Following": 6.413043478260869,
+            "Coherence": 6.108695652173913,
+            "RankMin": 2,
+            "RankMax": 12
+        },
+        "AyaExpanse-32B": {
+            "Average": 6.1811594202898545,
+            "Naturalness": 6.1521739130434785,
+            "Instruction Following": 6.217391304347826,
+            "Coherence": 6.173913043478261,
+            "RankMin": 2,
+            "RankMax": 12
+        },
+        "Gemma-3-12B": {
+            "Average": 6.1521739130434785,
+            "Naturalness": 6.108695652173913,
+            "Instruction Following": 6.173913043478261,
+            "Coherence": 6.173913043478261,
+            "RankMin": 3,
+            "RankMax": 13
+        },
+        "Llama-3": {
+            "Average": 5.999999999999999,
+            "Naturalness": 5.891304347826087,
+            "Instruction Following": 6.239130434782608,
+            "Coherence": 5.869565217391305,
+            "RankMin": 5,
+            "RankMax": 13
+        },
+        "DeepSeek-V3": {
+            "Average": 5.96376811594203,
+            "Naturalness": 5.6521739130434785,
+            "Instruction Following": 6.260869565217392,
+            "Coherence": 5.978260869565218,
+            "RankMin": 6,
+            "RankMax": 13
+        },
+        "AyaExpanse-8B": {
+            "Average": 5.862318840579711,
+            "Naturalness": 5.804347826086956,
+            "Instruction Following": 6.043478260869565,
+            "Coherence": 5.739130434782608,
+            "RankMin": 10,
+            "RankMax": 14
+        },
+        "Qwen2": {
+            "Average": 5.449275362318841,
+            "Naturalness": 5.3478260869565215,
+            "Instruction Following": 5.608695652173913,
+            "Coherence": 5.391304347826087,
+            "RankMin": 13,
+            "RankMax": 15
+        },
+        "CommandR7B": {
+            "Average": 5.333333333333334,
+            "Naturalness": 5.086956521739131,
+            "Instruction Following": 5.608695652173913,
+            "Coherence": 5.304347826086956,
+            "RankMin": 14,
+            "RankMax": 15
+        },
+        "Mistral-7B": {
+            "Average": 4.6521739130434785,
+            "Naturalness": 4.5,
+            "Instruction Following": 4.934782608695652,
+            "Coherence": 4.521739130434782,
+            "RankMin": 16,
+            "RankMax": 16
+        }
+    },
+    "ja_JP": {
+        "Gemini-2": {
+            "Average": 6.217391304347826,
+            "Naturalness": 6.173913043478261,
+            "Instruction Following": 6.239130434782608,
+            "Coherence": 6.239130434782608,
+            "RankMin": 1,
+            "RankMax": 5
+        },
+        "DeepSeek-V3": {
+            "Average": 6.094202898550725,
+            "Naturalness": 6.086956521739131,
+            "Instruction Following": 6.021739130434782,
+            "Coherence": 6.173913043478261,
+            "RankMin": 1,
+            "RankMax": 10
+        },
+        "Mistral-Medium": {
+            "Average": 6.05072463768116,
+            "Naturalness": 6.0,
+            "Instruction Following": 5.913043478260869,
+            "Coherence": 6.239130434782608,
+            "RankMin": 1,
+            "RankMax": 10
+        },
+        "Gemma-3-27B": {
+            "Average": 6.021739130434784,
+            "Naturalness": 6.086956521739131,
+            "Instruction Following": 5.869565217391305,
+            "Coherence": 6.108695652173913,
+            "RankMin": 1,
+            "RankMax": 10
+        },
+        "Claude-4": {
+            "Average": 6.007246376811595,
+            "Naturalness": 5.978260869565218,
+            "Instruction Following": 5.978260869565218,
+            "Coherence": 6.065217391304348,
+            "RankMin": 1,
+            "RankMax": 10
+        },
+        "GPT-4": {
+            "Average": 6.000000000000001,
+            "Naturalness": 6.043478260869565,
+            "Instruction Following": 5.913043478260869,
+            "Coherence": 6.043478260869565,
+            "RankMin": 2,
+            "RankMax": 9
+        },
+        "Qwen3-235B": {
+            "Average": 5.9057971014492745,
+            "Naturalness": 5.8478260869565215,
+            "Instruction Following": 5.804347826086956,
+            "Coherence": 6.065217391304348,
+            "RankMin": 2,
+            "RankMax": 11
+        },
+        "CommandA": {
+            "Average": 5.898550724637681,
+            "Naturalness": 5.739130434782608,
+            "Instruction Following": 6.0,
+            "Coherence": 5.956521739130435,
+            "RankMin": 1,
+            "RankMax": 12
+        },
+        "Gemma-3-12B": {
+            "Average": 5.855072463768115,
+            "Naturalness": 5.891304347826087,
+            "Instruction Following": 5.804347826086956,
+            "Coherence": 5.869565217391305,
+            "RankMin": 2,
+            "RankMax": 12
+        },
+        "AyaExpanse-32B": {
+            "Average": 5.717391304347827,
+            "Naturalness": 5.804347826086956,
+            "Instruction Following": 5.456521739130435,
+            "Coherence": 5.891304347826087,
+            "RankMin": 7,
+            "RankMax": 14
+        },
+        "Llama-4-Maverick": {
+            "Average": 5.586956521739131,
+            "Naturalness": 5.565217391304348,
+            "Instruction Following": 5.586956521739131,
+            "Coherence": 5.608695652173913,
+            "RankMin": 7,
+            "RankMax": 14
+        },
+        "AyaExpanse-8B": {
+            "Average": 5.586956521739131,
+            "Naturalness": 5.543478260869565,
+            "Instruction Following": 5.434782608695652,
+            "Coherence": 5.782608695652174,
+            "RankMin": 8,
+            "RankMax": 14
+        },
+        "Qwen2": {
+            "Average": 5.528985507246376,
+            "Naturalness": 5.673913043478261,
+            "Instruction Following": 5.173913043478261,
+            "Coherence": 5.739130434782608,
+            "RankMin": 10,
+            "RankMax": 14
+        },
+        "CommandR7B": {
+            "Average": 5.5,
+            "Naturalness": 5.565217391304348,
+            "Instruction Following": 5.434782608695652,
+            "Coherence": 5.5,
+            "RankMin": 10,
+            "RankMax": 14
+        },
+        "Llama-3": {
+            "Average": 4.594202898550725,
+            "Naturalness": 4.478260869565218,
+            "Instruction Following": 4.826086956521739,
+            "Coherence": 4.478260869565218,
+            "RankMin": 15,
+            "RankMax": 15
+        },
+        "Mistral-7B": {
+            "Average": 3.8260869565217384,
+            "Naturalness": 3.369565217391304,
+            "Instruction Following": 4.173913043478261,
+            "Coherence": 3.9347826086956523,
+            "RankMin": 16,
+            "RankMax": 16
+        }
+    },
+    "zh_CN": {
+        "Gemini-2": {
+            "Average": 6.471014492753624,
+            "Naturalness": 6.391304347826087,
+            "Instruction Following": 6.521739130434782,
+            "Coherence": 6.5,
+            "RankMin": 1,
+            "RankMax": 3
+        },
+        "Qwen3-235B": {
+            "Average": 6.420289855072465,
+            "Naturalness": 6.3478260869565215,
+            "Instruction Following": 6.521739130434782,
+            "Coherence": 6.391304347826087,
+            "RankMin": 1,
+            "RankMax": 3
+        },
+        "DeepSeek-V3": {
+            "Average": 6.355072463768115,
+            "Naturalness": 6.413043478260869,
+            "Instruction Following": 6.195652173913044,
+            "Coherence": 6.456521739130435,
+            "RankMin": 1,
+            "RankMax": 8
+        },
+        "Mistral-Medium": {
+            "Average": 6.246376811594204,
+            "Naturalness": 6.260869565217392,
+            "Instruction Following": 6.260869565217392,
+            "Coherence": 6.217391304347826,
+            "RankMin": 3,
+            "RankMax": 9
+        },
+        "CommandA": {
+            "Average": 6.239130434782608,
+            "Naturalness": 6.130434782608695,
+            "Instruction Following": 6.239130434782608,
+            "Coherence": 6.3478260869565215,
+            "RankMin": 2,
+            "RankMax": 9
+        },
+        "GPT-4": {
+            "Average": 6.2101449275362315,
+            "Naturalness": 6.282608695652174,
+            "Instruction Following": 6.086956521739131,
+            "Coherence": 6.260869565217392,
+            "RankMin": 3,
+            "RankMax": 9
+        },
+        "Gemma-3-27B": {
+            "Average": 6.188405797101451,
+            "Naturalness": 6.239130434782608,
+            "Instruction Following": 6.130434782608695,
+            "Coherence": 6.195652173913044,
+            "RankMin": 2,
+            "RankMax": 9
+        },
+        "Gemma-3-12B": {
+            "Average": 6.1231884057971016,
+            "Naturalness": 6.108695652173913,
+            "Instruction Following": 6.173913043478261,
+            "Coherence": 6.086956521739131,
+            "RankMin": 3,
+            "RankMax": 9
+        },
+        "Claude-4": {
+            "Average": 6.108695652173912,
+            "Naturalness": 6.260869565217392,
+            "Instruction Following": 5.804347826086956,
+            "Coherence": 6.260869565217392,
+            "RankMin": 4,
+            "RankMax": 12
+        },
+        "Llama-4-Maverick": {
+            "Average": 5.956521739130435,
+            "Naturalness": 6.043478260869565,
+            "Instruction Following": 5.869565217391305,
+            "Coherence": 5.956521739130435,
+            "RankMin": 9,
+            "RankMax": 14
+        },
+        "Qwen2": {
+            "Average": 5.94927536231884,
+            "Naturalness": 6.021739130434782,
+            "Instruction Following": 5.826086956521739,
+            "Coherence": 6.0,
+            "RankMin": 8,
+            "RankMax": 14
+        },
+        "AyaExpanse-32B": {
+            "Average": 5.949275362318841,
+            "Naturalness": 5.934782608695652,
+            "Instruction Following": 5.8478260869565215,
+            "Coherence": 6.065217391304348,
+            "RankMin": 9,
+            "RankMax": 14
+        },
+        "AyaExpanse-8B": {
+            "Average": 5.891304347826087,
+            "Naturalness": 5.760869565217392,
+            "Instruction Following": 5.782608695652174,
+            "Coherence": 6.130434782608695,
+            "RankMin": 10,
+            "RankMax": 14
+        },
+        "CommandR7B": {
+            "Average": 5.869565217391305,
+            "Naturalness": 6.1521739130434785,
+            "Instruction Following": 5.630434782608695,
+            "Coherence": 5.826086956521739,
+            "RankMin": 9,
+            "RankMax": 14
+        },
+        "Llama-3": {
+            "Average": 5.615942028985508,
+            "Naturalness": 5.521739130434782,
+            "Instruction Following": 5.782608695652174,
+            "Coherence": 5.543478260869565,
+            "RankMin": 15,
+            "RankMax": 15
+        },
+        "Mistral-7B": {
+            "Average": 5.2898550724637685,
+            "Naturalness": 5.130434782608695,
+            "Instruction Following": 4.978260869565218,
+            "Coherence": 5.760869565217392,
+            "RankMin": 16,
+            "RankMax": 16
+        }
+    },
+    "en_US": {
+        "GPT-4": {
+            "Average": 6.492753623188406,
+            "Naturalness": 6.282608695652174,
+            "Instruction Following": 6.6521739130434785,
+            "Coherence": 6.543478260869565,
+            "RankMin": 1,
+            "RankMax": 9
+        },
+        "Qwen3-235B": {
+            "Average": 6.427536231884059,
+            "Naturalness": 6.195652173913044,
+            "Instruction Following": 6.6521739130434785,
+            "Coherence": 6.434782608695652,
+            "RankMin": 1,
+            "RankMax": 11
+        },
+        "CommandA": {
+            "Average": 6.427536231884059,
+            "Naturalness": 6.326086956521739,
+            "Instruction Following": 6.5,
+            "Coherence": 6.456521739130435,
+            "RankMin": 1,
+            "RankMax": 11
+        },
+        "Llama-4-Maverick": {
+            "Average": 6.420289855072465,
+            "Naturalness": 6.369565217391305,
+            "Instruction Following": 6.5,
+            "Coherence": 6.391304347826087,
+            "RankMin": 1,
+            "RankMax": 14
+        },
+        "AyaExpanse-32B": {
+            "Average": 6.391304347826086,
+            "Naturalness": 6.304347826086956,
+            "Instruction Following": 6.391304347826087,
+            "Coherence": 6.478260869565218,
+            "RankMin": 1,
+            "RankMax": 15
+        },
+        "Claude-4": {
+            "Average": 6.369565217391305,
+            "Naturalness": 6.260869565217392,
+            "Instruction Following": 6.391304347826087,
+            "Coherence": 6.456521739130435,
+            "RankMin": 1,
+            "RankMax": 14
+        },
+        "Qwen2": {
+            "Average": 6.362318840579711,
+            "Naturalness": 6.260869565217392,
+            "Instruction Following": 6.456521739130435,
+            "Coherence": 6.369565217391305,
+            "RankMin": 1,
+            "RankMax": 16
+        },
+        "Mistral-7B": {
+            "Average": 6.362318840579708,
+            "Naturalness": 6.369565217391305,
+            "Instruction Following": 6.3478260869565215,
+            "Coherence": 6.369565217391305,
+            "RankMin": 1,
+            "RankMax": 14
+        },
+        "DeepSeek-V3": {
+            "Average": 6.362318840579712,
+            "Naturalness": 6.130434782608695,
+            "Instruction Following": 6.608695652173913,
+            "Coherence": 6.3478260869565215,
+            "RankMin": 1,
+            "RankMax": 14
+        },
+        "Llama-3": {
+            "Average": 6.326086956521739,
+            "Naturalness": 6.304347826086956,
+            "Instruction Following": 6.391304347826087,
+            "Coherence": 6.282608695652174,
+            "RankMin": 2,
+            "RankMax": 16
+        },
+        "CommandR7B": {
+            "Average": 6.304347826086958,
+            "Naturalness": 6.391304347826087,
+            "Instruction Following": 6.195652173913044,
+            "Coherence": 6.326086956521739,
+            "RankMin": 2,
+            "RankMax": 16
+        },
+        "AyaExpanse-8B": {
+            "Average": 6.289855072463768,
+            "Naturalness": 6.195652173913044,
+            "Instruction Following": 6.369565217391305,
+            "Coherence": 6.304347826086956,
+            "RankMin": 4,
+            "RankMax": 16
+        },
+        "Mistral-Medium": {
+            "Average": 6.282608695652175,
+            "Naturalness": 6.108695652173913,
+            "Instruction Following": 6.521739130434782,
+            "Coherence": 6.217391304347826,
+            "RankMin": 3,
+            "RankMax": 16
+        },
+        "Gemini-2": {
+            "Average": 6.239130434782611,
+            "Naturalness": 6.108695652173913,
+            "Instruction Following": 6.3478260869565215,
+            "Coherence": 6.260869565217392,
+            "RankMin": 2,
+            "RankMax": 16
+        },
+        "Gemma-3-27B": {
+            "Average": 6.231884057971015,
+            "Naturalness": 6.043478260869565,
+            "Instruction Following": 6.413043478260869,
+            "Coherence": 6.239130434782608,
+            "RankMin": 10,
+            "RankMax": 16
+        },
+        "Gemma-3-12B": {
+            "Average": 6.181159420289856,
+            "Naturalness": 6.043478260869565,
+            "Instruction Following": 6.282608695652174,
+            "Coherence": 6.217391304347826,
+            "RankMin": 7,
+            "RankMax": 16
+        }
+    },
+    "de_DE": {
+        "GPT-4": {
+            "Average": 6.637681159420291,
+            "Naturalness": 6.456521739130435,
+            "Instruction Following": 6.608695652173913,
+            "Coherence": 6.8478260869565215,
+            "RankMin": 1,
+            "RankMax": 3
+        },
+        "Claude-4": {
+            "Average": 6.543478260869565,
+            "Naturalness": 6.282608695652174,
+            "Instruction Following": 6.586956521739131,
+            "Coherence": 6.760869565217392,
+            "RankMin": 1,
+            "RankMax": 8
+        },
+        "Mistral-Medium": {
+            "Average": 6.536231884057972,
+            "Naturalness": 6.304347826086956,
+            "Instruction Following": 6.608695652173913,
+            "Coherence": 6.695652173913044,
+            "RankMin": 1,
+            "RankMax": 5
+        },
+        "AyaExpanse-32B": {
+            "Average": 6.507246376811595,
+            "Naturalness": 6.3478260869565215,
+            "Instruction Following": 6.456521739130435,
+            "Coherence": 6.717391304347826,
+            "RankMin": 2,
+            "RankMax": 9
+        },
+        "CommandA": {
+            "Average": 6.456521739130435,
+            "Naturalness": 6.1521739130434785,
+            "Instruction Following": 6.5,
+            "Coherence": 6.717391304347826,
+            "RankMin": 2,
+            "RankMax": 10
+        },
+        "Gemma-3-27B": {
+            "Average": 6.405797101449275,
+            "Naturalness": 6.065217391304348,
+            "Instruction Following": 6.413043478260869,
+            "Coherence": 6.739130434782608,
+            "RankMin": 4,
+            "RankMax": 13
+        },
+        "DeepSeek-V3": {
+            "Average": 6.398550724637681,
+            "Naturalness": 6.130434782608695,
+            "Instruction Following": 6.369565217391305,
+            "Coherence": 6.695652173913044,
+            "RankMin": 2,
+            "RankMax": 13
+        },
+        "Llama-4-Maverick": {
+            "Average": 6.362318840579711,
+            "Naturalness": 6.130434782608695,
+            "Instruction Following": 6.456521739130435,
+            "Coherence": 6.5,
+            "RankMin": 2,
+            "RankMax": 11
+        },
+        "Gemma-3-12B": {
+            "Average": 6.362318840579711,
+            "Naturalness": 6.108695652173913,
+            "Instruction Following": 6.326086956521739,
+            "Coherence": 6.6521739130434785,
+            "RankMin": 4,
+            "RankMax": 13
+        },
+        "Gemini-2": {
+            "Average": 6.340579710144927,
+            "Naturalness": 6.1521739130434785,
+            "Instruction Following": 6.282608695652174,
+            "Coherence": 6.586956521739131,
+            "RankMin": 5,
+            "RankMax": 13
+        },
+        "Qwen3-235B": {
+            "Average": 6.253623188405798,
+            "Naturalness": 6.130434782608695,
+            "Instruction Following": 6.195652173913044,
+            "Coherence": 6.434782608695652,
+            "RankMin": 6,
+            "RankMax": 14
+        },
+        "CommandR7B": {
+            "Average": 6.18840579710145,
+            "Naturalness": 5.869565217391305,
+            "Instruction Following": 6.130434782608695,
+            "Coherence": 6.565217391304348,
+            "RankMin": 9,
+            "RankMax": 15
+        },
+        "AyaExpanse-8B": {
+            "Average": 6.1739130434782625,
+            "Naturalness": 5.978260869565218,
+            "Instruction Following": 6.021739130434782,
+            "Coherence": 6.521739130434782,
+            "RankMin": 9,
+            "RankMax": 15
+        },
+        "Qwen2": {
+            "Average": 6.137681159420289,
+            "Naturalness": 5.869565217391305,
+            "Instruction Following": 6.1521739130434785,
+            "Coherence": 6.391304347826087,
+            "RankMin": 11,
+            "RankMax": 15
+        },
+        "Llama-3": {
+            "Average": 5.978260869565218,
+            "Naturalness": 5.630434782608695,
+            "Instruction Following": 6.065217391304348,
+            "Coherence": 6.239130434782608,
+            "RankMin": 12,
+            "RankMax": 16
+        },
+        "Mistral-7B": {
+            "Average": 5.855072463768114,
+            "Naturalness": 5.413043478260869,
+            "Instruction Following": 5.978260869565218,
+            "Coherence": 6.173913043478261,
+            "RankMin": 15,
+            "RankMax": 16
+        }
+    },
+    "ar_EG": {
+        "CommandA": {
+            "Average": 5.920289855072463,
+            "Naturalness": 4.869565217391305,
+            "Instruction Following": 6.478260869565218,
+            "Coherence": 6.413043478260869,
+            "RankMin": 1,
+            "RankMax": 4
+        },
+        "Claude-4": {
+            "Average": 5.840579710144928,
+            "Naturalness": 4.739130434782608,
+            "Instruction Following": 6.456521739130435,
+            "Coherence": 6.326086956521739,
+            "RankMin": 1,
+            "RankMax": 4
+        },
+        "GPT-4": {
+            "Average": 5.811594202898552,
+            "Naturalness": 4.586956521739131,
+            "Instruction Following": 6.521739130434782,
+            "Coherence": 6.326086956521739,
+            "RankMin": 1,
+            "RankMax": 4
+        },
+        "Llama-4-Maverick": {
+            "Average": 5.5724637681159415,
+            "Naturalness": 5.021739130434782,
+            "Instruction Following": 5.956521739130435,
+            "Coherence": 5.739130434782608,
+            "RankMin": 1,
+            "RankMax": 7
+        },
+        "Gemini-2": {
+            "Average": 5.44927536231884,
+            "Naturalness": 4.0,
+            "Instruction Following": 6.1521739130434785,
+            "Coherence": 6.195652173913044,
+            "RankMin": 4,
+            "RankMax": 7
+        },
+        "Gemma-3-12B": {
+            "Average": 5.4057971014492745,
+            "Naturalness": 3.5434782608695654,
+            "Instruction Following": 6.478260869565218,
+            "Coherence": 6.195652173913044,
+            "RankMin": 4,
+            "RankMax": 7
+        },
+        "Gemma-3-27B": {
+            "Average": 5.318840579710144,
+            "Naturalness": 3.4130434782608696,
+            "Instruction Following": 6.304347826086956,
+            "Coherence": 6.239130434782608,
+            "RankMin": 4,
+            "RankMax": 9
+        },
+        "DeepSeek-V3": {
+            "Average": 5.1231884057971016,
+            "Naturalness": 3.0652173913043477,
+            "Instruction Following": 6.260869565217392,
+            "Coherence": 6.043478260869565,
+            "RankMin": 7,
+            "RankMax": 10
+        },
+        "Qwen3-235B": {
+            "Average": 5.0434782608695645,
+            "Naturalness": 3.130434782608696,
+            "Instruction Following": 6.1521739130434785,
+            "Coherence": 5.8478260869565215,
+            "RankMin": 7,
+            "RankMax": 10
+        },
+        "Mistral-Medium": {
+            "Average": 4.978260869565218,
+            "Naturalness": 3.152173913043478,
+            "Instruction Following": 6.021739130434782,
+            "Coherence": 5.760869565217392,
+            "RankMin": 8,
+            "RankMax": 10
+        },
+        "AyaExpanse-32B": {
+            "Average": 4.666666666666666,
+            "Naturalness": 2.217391304347826,
+            "Instruction Following": 5.934782608695652,
+            "Coherence": 5.8478260869565215,
+            "RankMin": 11,
+            "RankMax": 13
+        },
+        "AyaExpanse-8B": {
+            "Average": 4.471014492753624,
+            "Naturalness": 1.934782608695652,
+            "Instruction Following": 5.826086956521739,
+            "Coherence": 5.6521739130434785,
+            "RankMin": 11,
+            "RankMax": 14
+        },
+        "CommandR7B": {
+            "Average": 4.3188405797101455,
+            "Naturalness": 1.9130434782608696,
+            "Instruction Following": 5.6521739130434785,
+            "Coherence": 5.391304347826087,
+            "RankMin": 11,
+            "RankMax": 14
+        },
+        "Qwen2": {
+            "Average": 4.130434782608695,
+            "Naturalness": 1.7608695652173914,
+            "Instruction Following": 5.543478260869565,
+            "Coherence": 5.086956521739131,
+            "RankMin": 12,
+            "RankMax": 15
+        },
+        "Llama-3": {
+            "Average": 3.8115942028985503,
+            "Naturalness": 2.0652173913043477,
+            "Instruction Following": 4.891304347826087,
+            "Coherence": 4.478260869565218,
+            "RankMin": 14,
+            "RankMax": 15
+        },
+        "Mistral-7B": {
+            "Average": 1.7898550724637683,
+            "Naturalness": 1.065217391304348,
+            "Instruction Following": 2.391304347826087,
+            "Coherence": 1.9130434782608696,
+            "RankMin": 16,
+            "RankMax": 16
+        }
+    },
+    "bn_BD": {
+        "Gemini-2": {
+            "Average": 4.666666666666667,
+            "Naturalness": 4.521739130434782,
+            "Instruction Following": 5.065217391304348,
+            "Coherence": 4.413043478260869,
+            "RankMin": 1,
+            "RankMax": 2
+        },
+        "DeepSeek-V3": {
+            "Average": 4.442028985507247,
+            "Naturalness": 4.434782608695652,
+            "Instruction Following": 4.782608695652174,
+            "Coherence": 4.108695652173913,
+            "RankMin": 1,
+            "RankMax": 9
+        },
+        "Gemma-3-27B": {
+            "Average": 4.326086956521738,
+            "Naturalness": 4.239130434782608,
+            "Instruction Following": 4.695652173913044,
+            "Coherence": 4.043478260869565,
+            "RankMin": 2,
+            "RankMax": 9
+        },
+        "Mistral-Medium": {
+            "Average": 4.3188405797101455,
+            "Naturalness": 4.217391304347826,
+            "Instruction Following": 4.739130434782608,
+            "Coherence": 4.0,
+            "RankMin": 2,
+            "RankMax": 9
+        },
+        "Llama-4-Maverick": {
+            "Average": 4.231884057971015,
+            "Naturalness": 4.217391304347826,
+            "Instruction Following": 4.565217391304348,
+            "Coherence": 3.9130434782608696,
+            "RankMin": 2,
+            "RankMax": 9
+        },
+        "Claude-4": {
+            "Average": 4.231884057971016,
+            "Naturalness": 4.1521739130434785,
+            "Instruction Following": 4.6521739130434785,
+            "Coherence": 3.891304347826087,
+            "RankMin": 2,
+            "RankMax": 9
+        },
+        "GPT-4": {
+            "Average": 4.217391304347826,
+            "Naturalness": 4.173913043478261,
+            "Instruction Following": 4.608695652173913,
+            "Coherence": 3.869565217391304,
+            "RankMin": 2,
+            "RankMax": 9
+        },
+        "Qwen3-235B": {
+            "Average": 4.173913043478261,
+            "Naturalness": 4.108695652173913,
+            "Instruction Following": 4.586956521739131,
+            "Coherence": 3.8260869565217392,
+            "RankMin": 2,
+            "RankMax": 9
+        },
+        "Gemma-3-12B": {
+            "Average": 4.1521739130434785,
+            "Naturalness": 4.1521739130434785,
+            "Instruction Following": 4.6521739130434785,
+            "Coherence": 3.652173913043478,
+            "RankMin": 2,
+            "RankMax": 9
+        },
+        "CommandA": {
+            "Average": 3.8260869565217397,
+            "Naturalness": 3.739130434782609,
+            "Instruction Following": 4.282608695652174,
+            "Coherence": 3.4565217391304346,
+            "RankMin": 10,
+            "RankMax": 10
+        },
+        "AyaExpanse-32B": {
+            "Average": 3.347826086956522,
+            "Naturalness": 3.217391304347826,
+            "Instruction Following": 3.9565217391304346,
+            "Coherence": 2.869565217391304,
+            "RankMin": 11,
+            "RankMax": 15
+        },
+        "Qwen2": {
+            "Average": 3.1521739130434776,
+            "Naturalness": 3.0,
+            "Instruction Following": 3.652173913043478,
+            "Coherence": 2.8043478260869565,
+            "RankMin": 11,
+            "RankMax": 15
+        },
+        "Llama-3": {
+            "Average": 3.1159420289855073,
+            "Naturalness": 2.9565217391304346,
+            "Instruction Following": 3.5434782608695654,
+            "Coherence": 2.847826086956522,
+            "RankMin": 11,
+            "RankMax": 15
+        },
+        "AyaExpanse-8B": {
+            "Average": 3.0579710144927534,
+            "Naturalness": 2.891304347826087,
+            "Instruction Following": 3.5652173913043477,
+            "Coherence": 2.717391304347826,
+            "RankMin": 11,
+            "RankMax": 15
+        },
+        "CommandR7B": {
+            "Average": 3.0362318840579716,
+            "Naturalness": 2.847826086956522,
+            "Instruction Following": 3.5869565217391304,
+            "Coherence": 2.6739130434782608,
+            "RankMin": 11,
+            "RankMax": 15
+        },
+        "Mistral-7B": {
+            "Average": 1.8043478260869565,
+            "Naturalness": 1.7173913043478262,
+            "Instruction Following": 2.0869565217391304,
+            "Coherence": 1.608695652173913,
+            "RankMin": 16,
+            "RankMax": 16
+        }
+    }
+}

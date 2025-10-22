@@ -1,58 +1,55 @@
-# WMT-MIST multilingual instruction shared task
+# Multilingual Instruction Shared Task
 
-This packages serves for data loading, evaluation, and validation of the [Multilingual Instruction Shared Task](https://www2.statmt.org/wmt25/multilingual-instruction.html) at WMT.
+This repository contains data and evaluation code for the [WMT25 Multilingual Instruction Shared Task](https://www2.statmt.org/wmt25/multilingual-instruction.html).
 
-First, install the package:
-```
-pip3 install git+https://github.com/wmt-conference/wmt-mist
-```
+> **Title:** Findings of the WMT25 Multilingual Instruction Shared Task: Persistent Hurdles in Reasoning, Generation, and Evaluation
+> 
+> **Abstract:** The WMT25 Multilingual Instruction Shared Task (MIST) introduces a benchmark to evaluate large language models (LLMs) across 30 languages. The benchmark covers five types of problems: machine translation, linguistic reasoning, open-ended generation, cross-lingual summarization, and LLM-as-a-judge. We provide automatic evaluation and collect human annotations, which highlight the limitations of automatic evaluation and allow further research into metric meta-evaluation. We run on our benchmark a diverse set of open- and closed-weight LLMs, providing a broad assessment of the multilingual capabilities of current LLMs. Results highlight substantial variation across sub-tasks and languages, revealing persistent challenges in reasoning, cross-lingual generation, and evaluation reliability. This work establishes a standardized framework for measuring future progress in multilingual LLM development.
 
-## Loading data
+## Data
 
-To load the data, specify the particular task with `-t` or `--task`:
-```bash
-wmt-mist -t wmt24++ | jq length
-> 54890
+The shared task was organized in two rounds:
+In the first round, participants processed outputs for 4 tasks (translation, cross-lingual summarization, open-ended generation, linguistic reasoning).
+In the second round, the participants evaluated the outputs of all other models as LLM-as-a-judge.
 
-wmt-mist -t wmt24metrics | jq length
-> 87857
+See `data/mist_25.json` for input prompts (blind) used in the MIST25 dataset (almost 20k prompts across many languages).
 
-wmt-mist -t mist25dev | jq length
-> 87857
-```
+See `data/submissions*/` for raw model outputs:
+- `data/submissions/` for submissions of the four tasks,
+- `data/submissions_judge_oeg` for open-ended generation judge,
+- `data/submissions_judge_xlsum` for cross-lingual summarization judge.
 
-The output is a JSON array. Taking a look at the first item for the LLM-as-a-judge task contains the source and the system translation that needs to be scored.
-```bash
-wmt-mist load judge-translation wmt24 | jq '.[0]'
-> "Consider this source '''Siso's depictions of land, water center new gallery exhibition''' in English and this translation '''Las representaciones de tierra y agua de Siso protagonizan nueva exposición en galería''' in Spanish; Castilian. Assess the translation quality from 0% to 100%."
-```
+See `data/humeval_aggregated/` for aggregated human evaluation results:
+- `data/humeval_aggregated/xsum.json` for cross-lingual summarization evaluated on Likert-7 across multiple dimensions,
+- `data/humeval_aggregated/judge_xlsum.json` for LLM-as-a-judge of cross-lingual summarization results,
+- `data/humeval_aggregated/oeg.json` for open-ended generation evaluated on Likert-7 across multiple dimensions,
+- `data/humeval_aggregated/judge_xlsum.json` for LLM-as-a-judge of open-ended generation results,
+- `data/humeval_aggregated/mt.json` for machine translation (taken from [WMT25 General Machine Translation Shared Task](https://github.com/wmt-conference/wmt25-general-mt)),
+- `data/humeval_aggregated/judge_mt.json` for LLM-as-a-judge for machine translation (taken from [WMT25 Automated Translation Quality Evaluation Systems](https://github.com/wmt-conference/wmt25-general-mt)),
+- `data/humeval_aggregated/mt.json` for linguistic reasoning task.
 
-## Evaluating outputs
+See `data/humeval/` for per-item evaluation results:
+- `data/mt.json` for translation evaluation results,
+- `data/xlsum.json` for cross-lingual summarization evaluation results,
+- `data/oeg.json` for open-ended generation evaluation results,
+- `data/lr.json` for linguistic reasoning evaluation results.
 
-For each item in the array you need to add the `output` field with your LLM output, such as 
-```json
-{
-  "prompt": "Given this source '''Už se nudím: Přítel je neschopný''' in cs and translation '''Мені вже нудно: Хлопець нездатний''' in uk, assign a score to the translation on a scale from 0 to 100. Output only the score and nothing else.",
-  "output": "80",
+## Other
+
+Cite as:
+```bibtex
+@InProceedings{kocmi-etal-2025-mist,
+  title     = {Findings of the WMT25 Multilingual Instruction Shared Task: Persistent Hurdles in Reasoning, Generation, and Evaluation},
+  author    = {Kocmi, Tom and Agrawal, Sweta and Artemova, Ekaterina and Avramidis, Eleftherios and Briakou, Eleftheria and Chen, Pinzhen and Fadaee, Marzieh and Freitag, Markus and Grundkiewicz, Roman and Hou, Yupeng and Koehn, Philipp and Kreutzer, Julia and Mansour, Saab and Perrella, Stefano and Proietti, Lorenzo and Riley, Parker and Sá¡nchez, Eduardo and Schmidtova, Patricia and Shmatova, Mariya and Zouhar, Vilém},
+  booktitle = {Proceedings of the Tenth Conference on Machine Translation (WMT 2025)},
+  month     = {November},
+  year      = {2025},
+  address   = {Suzhou, China},
+  publisher = {Association for Computational Linguistics},
+  pages     = {462--483},   
+  abstract  = {The WMT25 Multilingual Instruction Shared Task (MIST) introduces a benchmark to evaluate large language models (LLMs) across 30 languages. The benchmark covers five types of problems: machine translation, linguistic reasoning, open-ended generation, cross-lingual summarization, and LLM-as-a-judge. We provide automatic evaluation and collect human annotations, which highlight the limitations of automatic evaluation and allow further research into metric meta-evaluation. We run on our benchmark a diverse set of open- and closed-weight LLMs, providing a broad assessment of the multilingual capabilities of current LLMs. Results highlight substantial variation across sub-tasks and languages, revealing persistent challenges in reasoning, cross-lingual generation, and evaluation reliability. This work establishes a standardized framework for measuring future progress in multilingual LLM development.},
+  url       = {https://aclanthology.org/2025.wmt-1.24}
 }
 ```
 
-To automatically evaluate, add the `--output` parameter:
-```bash
-wmt-mist -t mist25dev -o my_outputs.json
-```
-
-TODO
-
-## Task overview
-
-Can be specified with the `--task` argument:
-
-- `mist25dev` devset for multilingual instruction shared task
-- `wmt24metrics` translation evaluation
-- `wmt24`, `wmt24++` translation
-
-## Contributing
-
-- Do not commit large data into this repository.
-- Add yourself to the author list in `pyproject.toml`
+The `tool/` contains work-in-progress tool (not production-ready).

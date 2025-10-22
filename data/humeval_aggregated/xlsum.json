@@ -1,0 +1,932 @@
+{
+    "fr": {
+        "Gemini-2.5-Pro": {
+            "Average": 6.416666666666667,
+            "Naturalness": 6.111111111111111,
+            "Faithfulness": 6.666666666666667,
+            "Coherence": 6.222222222222222,
+            "Coverage": 6.666666666666667,
+            "RankMin": 1,
+            "RankMax": 8
+        },
+        "Gemma-3-27B": {
+            "Average": 6.416666666666667,
+            "Naturalness": 6.444444444444445,
+            "Faithfulness": 6.666666666666667,
+            "Coherence": 6.388888888888889,
+            "Coverage": 6.166666666666667,
+            "RankMin": 1,
+            "RankMax": 8
+        },
+        "GPT-4.1": {
+            "Average": 6.375,
+            "Naturalness": 6.333333333333333,
+            "Faithfulness": 6.555555555555555,
+            "Coherence": 6.444444444444445,
+            "Coverage": 6.166666666666667,
+            "RankMin": 1,
+            "RankMax": 8
+        },
+        "Claude-4": {
+            "Average": 6.333333333333333,
+            "Naturalness": 6.333333333333333,
+            "Faithfulness": 6.5,
+            "Coherence": 6.222222222222222,
+            "Coverage": 6.277777777777778,
+            "RankMin": 1,
+            "RankMax": 11
+        },
+        "TowerPlus-72B": {
+            "Average": 6.305555555555555,
+            "Naturalness": 6.222222222222222,
+            "Faithfulness": 6.555555555555555,
+            "Coherence": 6.055555555555555,
+            "Coverage": 6.388888888888889,
+            "RankMin": 1,
+            "RankMax": 8
+        },
+        "CommandA": {
+            "Average": 6.305555555555555,
+            "Naturalness": 6.388888888888889,
+            "Faithfulness": 6.388888888888889,
+            "Coherence": 6.166666666666667,
+            "Coverage": 6.277777777777778,
+            "RankMin": 1,
+            "RankMax": 11
+        },
+        "Llama-4-Maverick": {
+            "Average": 6.25,
+            "Naturalness": 6.333333333333333,
+            "Faithfulness": 6.333333333333333,
+            "Coherence": 6.333333333333333,
+            "Coverage": 6.0,
+            "RankMin": 1,
+            "RankMax": 10
+        },
+        "AyaExpanse-8B": {
+            "Average": 6.222222222222222,
+            "Naturalness": 5.944444444444445,
+            "Faithfulness": 6.333333333333333,
+            "Coherence": 6.5,
+            "Coverage": 6.111111111111111,
+            "RankMin": 1,
+            "RankMax": 13
+        },
+        "Mistral-Medium": {
+            "Average": 6.055555555555555,
+            "Naturalness": 5.888888888888889,
+            "Faithfulness": 6.222222222222222,
+            "Coherence": 5.944444444444445,
+            "Coverage": 6.166666666666667,
+            "RankMin": 6,
+            "RankMax": 15
+        },
+        "DeepSeek-V3": {
+            "Average": 6.0,
+            "Naturalness": 5.722222222222222,
+            "Faithfulness": 6.111111111111111,
+            "Coherence": 5.888888888888889,
+            "Coverage": 6.277777777777778,
+            "RankMin": 4,
+            "RankMax": 16
+        },
+        "Qwen3-235B": {
+            "Average": 5.916666666666667,
+            "Naturalness": 5.555555555555555,
+            "Faithfulness": 6.166666666666667,
+            "Coherence": 6.0,
+            "Coverage": 5.944444444444445,
+            "RankMin": 8,
+            "RankMax": 16
+        },
+        "Gemma-3-12B": {
+            "Average": 5.875,
+            "Naturalness": 5.722222222222222,
+            "Faithfulness": 6.166666666666667,
+            "Coherence": 5.944444444444445,
+            "Coverage": 5.666666666666667,
+            "RankMin": 7,
+            "RankMax": 16
+        },
+        "AyaExpanse-32B": {
+            "Average": 5.861111111111111,
+            "Naturalness": 5.666666666666667,
+            "Faithfulness": 6.0,
+            "Coherence": 5.944444444444445,
+            "Coverage": 5.833333333333333,
+            "RankMin": 8,
+            "RankMax": 16
+        },
+        "Qwen2.5-7B": {
+            "Average": 5.763888888888889,
+            "Naturalness": 5.388888888888889,
+            "Faithfulness": 5.944444444444445,
+            "Coherence": 5.888888888888889,
+            "Coverage": 5.833333333333333,
+            "RankMin": 9,
+            "RankMax": 16
+        },
+        "TowerPlus-9B": {
+            "Average": 5.736111111111111,
+            "Naturalness": 5.722222222222222,
+            "Faithfulness": 5.833333333333333,
+            "Coherence": 5.833333333333333,
+            "Coverage": 5.555555555555555,
+            "RankMin": 8,
+            "RankMax": 16
+        },
+        "Llama-3.1-8B": {
+            "Average": 5.680555555555555,
+            "Naturalness": 5.388888888888889,
+            "Faithfulness": 5.944444444444445,
+            "Coherence": 5.666666666666667,
+            "Coverage": 5.722222222222222,
+            "RankMin": 10,
+            "RankMax": 16
+        },
+        "Mistral-7B": {
+            "Average": 4.763888888888889,
+            "Naturalness": 4.166666666666667,
+            "Faithfulness": 5.277777777777778,
+            "Coherence": 4.277777777777778,
+            "Coverage": 5.333333333333333,
+            "RankMin": 17,
+            "RankMax": 17
+        }
+    },
+    "ko": {
+        "Gemini-2.5-Pro": {
+            "Average": 5.736111111111111,
+            "Naturalness": 5.277777777777778,
+            "Faithfulness": 5.722222222222222,
+            "Coherence": 6.0,
+            "Coverage": 5.944444444444445,
+            "RankMin": 1,
+            "RankMax": 1
+        },
+        "GPT-4.1": {
+            "Average": 5.583333333333333,
+            "Naturalness": 5.222222222222222,
+            "Faithfulness": 5.444444444444445,
+            "Coherence": 6.0,
+            "Coverage": 5.666666666666667,
+            "RankMin": 2,
+            "RankMax": 8
+        },
+        "Llama-4-Maverick": {
+            "Average": 5.569444444444445,
+            "Naturalness": 5.444444444444445,
+            "Faithfulness": 5.388888888888889,
+            "Coherence": 6.0,
+            "Coverage": 5.444444444444445,
+            "RankMin": 1,
+            "RankMax": 11
+        },
+        "CommandA": {
+            "Average": 5.569444444444445,
+            "Naturalness": 5.222222222222222,
+            "Faithfulness": 5.444444444444445,
+            "Coherence": 6.0,
+            "Coverage": 5.611111111111111,
+            "RankMin": 1,
+            "RankMax": 8
+        },
+        "Claude-4": {
+            "Average": 5.513888888888889,
+            "Naturalness": 5.222222222222222,
+            "Faithfulness": 5.388888888888889,
+            "Coherence": 5.944444444444445,
+            "Coverage": 5.5,
+            "RankMin": 2,
+            "RankMax": 9
+        },
+        "Mistral-Medium": {
+            "Average": 5.486111111111111,
+            "Naturalness": 4.944444444444445,
+            "Faithfulness": 5.444444444444445,
+            "Coherence": 6.055555555555555,
+            "Coverage": 5.5,
+            "RankMin": 1,
+            "RankMax": 12
+        },
+        "DeepSeek-V3": {
+            "Average": 5.458333333333333,
+            "Naturalness": 5.111111111111111,
+            "Faithfulness": 5.388888888888889,
+            "Coherence": 5.666666666666667,
+            "Coverage": 5.666666666666667,
+            "RankMin": 2,
+            "RankMax": 12
+        },
+        "Gemma-3-12B": {
+            "Average": 5.319444444444445,
+            "Naturalness": 5.166666666666667,
+            "Faithfulness": 5.055555555555555,
+            "Coherence": 5.777777777777778,
+            "Coverage": 5.277777777777778,
+            "RankMin": 2,
+            "RankMax": 12
+        },
+        "Gemma-3-27B": {
+            "Average": 5.291666666666667,
+            "Naturalness": 5.222222222222222,
+            "Faithfulness": 4.944444444444445,
+            "Coherence": 5.777777777777778,
+            "Coverage": 5.222222222222222,
+            "RankMin": 5,
+            "RankMax": 13
+        },
+        "TowerPlus-72B": {
+            "Average": 5.208333333333333,
+            "Naturalness": 4.777777777777778,
+            "Faithfulness": 5.166666666666667,
+            "Coherence": 5.666666666666667,
+            "Coverage": 5.222222222222222,
+            "RankMin": 6,
+            "RankMax": 14
+        },
+        "Qwen3-235B": {
+            "Average": 5.125,
+            "Naturalness": 4.888888888888889,
+            "Faithfulness": 4.722222222222222,
+            "Coherence": 5.666666666666667,
+            "Coverage": 5.222222222222222,
+            "RankMin": 6,
+            "RankMax": 14
+        },
+        "AyaExpanse-32B": {
+            "Average": 5.125,
+            "Naturalness": 5.222222222222222,
+            "Faithfulness": 4.833333333333333,
+            "Coherence": 5.444444444444445,
+            "Coverage": 5.0,
+            "RankMin": 5,
+            "RankMax": 15
+        },
+        "TowerPlus-9B": {
+            "Average": 5.0,
+            "Naturalness": 4.888888888888889,
+            "Faithfulness": 4.777777777777778,
+            "Coherence": 5.333333333333333,
+            "Coverage": 5.0,
+            "RankMin": 9,
+            "RankMax": 14
+        },
+        "AyaExpanse-8B": {
+            "Average": 4.972222222222222,
+            "Naturalness": 4.722222222222222,
+            "Faithfulness": 4.444444444444445,
+            "Coherence": 5.888888888888889,
+            "Coverage": 4.833333333333333,
+            "RankMin": 10,
+            "RankMax": 14
+        },
+        "Qwen2.5-7B": {
+            "Average": 4.5,
+            "Naturalness": 4.055555555555555,
+            "Faithfulness": 3.9444444444444446,
+            "Coherence": 5.555555555555555,
+            "Coverage": 4.444444444444445,
+            "RankMin": 15,
+            "RankMax": 16
+        },
+        "Llama-3.1-8B": {
+            "Average": 3.9722222222222223,
+            "Naturalness": 3.611111111111111,
+            "Faithfulness": 3.9444444444444446,
+            "Coherence": 4.222222222222222,
+            "Coverage": 4.111111111111111,
+            "RankMin": 15,
+            "RankMax": 16
+        },
+        "Mistral-7B": {
+            "Average": 3.1805555555555554,
+            "Naturalness": 2.111111111111111,
+            "Faithfulness": 3.2222222222222223,
+            "Coherence": 3.8333333333333335,
+            "Coverage": 3.5555555555555554,
+            "RankMin": 17,
+            "RankMax": 17
+        }
+    },
+    "zh": {
+        "Gemini-2.5-Pro": {
+            "Average": 6.486111111111111,
+            "Naturalness": 6.444444444444445,
+            "Faithfulness": 6.388888888888889,
+            "Coherence": 6.555555555555555,
+            "Coverage": 6.555555555555555,
+            "RankMin": 1,
+            "RankMax": 6
+        },
+        "Qwen3-235B": {
+            "Average": 6.472222222222222,
+            "Naturalness": 6.5,
+            "Faithfulness": 6.222222222222222,
+            "Coherence": 6.5,
+            "Coverage": 6.666666666666667,
+            "RankMin": 1,
+            "RankMax": 7
+        },
+        "Claude-4": {
+            "Average": 6.472222222222222,
+            "Naturalness": 6.388888888888889,
+            "Faithfulness": 6.277777777777778,
+            "Coherence": 6.5,
+            "Coverage": 6.722222222222222,
+            "RankMin": 1,
+            "RankMax": 7
+        },
+        "DeepSeek-V3": {
+            "Average": 6.375,
+            "Naturalness": 6.5,
+            "Faithfulness": 6.055555555555555,
+            "Coherence": 6.444444444444445,
+            "Coverage": 6.5,
+            "RankMin": 1,
+            "RankMax": 10
+        },
+        "Mistral-Medium": {
+            "Average": 6.375,
+            "Naturalness": 6.333333333333333,
+            "Faithfulness": 6.055555555555555,
+            "Coherence": 6.555555555555555,
+            "Coverage": 6.555555555555555,
+            "RankMin": 1,
+            "RankMax": 10
+        },
+        "GPT-4.1": {
+            "Average": 6.333333333333333,
+            "Naturalness": 6.388888888888889,
+            "Faithfulness": 6.166666666666667,
+            "Coherence": 6.388888888888889,
+            "Coverage": 6.388888888888889,
+            "RankMin": 1,
+            "RankMax": 10
+        },
+        "Gemma-3-27B": {
+            "Average": 6.222222222222222,
+            "Naturalness": 6.166666666666667,
+            "Faithfulness": 6.166666666666667,
+            "Coherence": 6.166666666666667,
+            "Coverage": 6.388888888888889,
+            "RankMin": 2,
+            "RankMax": 12
+        },
+        "Gemma-3-12B": {
+            "Average": 6.222222222222222,
+            "Naturalness": 6.111111111111111,
+            "Faithfulness": 6.111111111111111,
+            "Coherence": 6.388888888888889,
+            "Coverage": 6.277777777777778,
+            "RankMin": 4,
+            "RankMax": 12
+        },
+        "TowerPlus-72B": {
+            "Average": 6.180555555555555,
+            "Naturalness": 5.944444444444445,
+            "Faithfulness": 6.222222222222222,
+            "Coherence": 6.166666666666667,
+            "Coverage": 6.388888888888889,
+            "RankMin": 4,
+            "RankMax": 12
+        },
+        "CommandA": {
+            "Average": 6.083333333333333,
+            "Naturalness": 5.888888888888889,
+            "Faithfulness": 5.888888888888889,
+            "Coherence": 6.222222222222222,
+            "Coverage": 6.333333333333333,
+            "RankMin": 4,
+            "RankMax": 13
+        },
+        "Llama-4-Maverick": {
+            "Average": 5.986111111111111,
+            "Naturalness": 5.944444444444445,
+            "Faithfulness": 5.722222222222222,
+            "Coherence": 6.222222222222222,
+            "Coverage": 6.055555555555555,
+            "RankMin": 7,
+            "RankMax": 13
+        },
+        "TowerPlus-9B": {
+            "Average": 5.944444444444445,
+            "Naturalness": 6.166666666666667,
+            "Faithfulness": 5.5,
+            "Coherence": 6.111111111111111,
+            "Coverage": 6.0,
+            "RankMin": 7,
+            "RankMax": 14
+        },
+        "AyaExpanse-32B": {
+            "Average": 5.777777777777778,
+            "Naturalness": 6.333333333333333,
+            "Faithfulness": 5.333333333333333,
+            "Coherence": 5.777777777777778,
+            "Coverage": 5.666666666666667,
+            "RankMin": 10,
+            "RankMax": 14
+        },
+        "AyaExpanse-8B": {
+            "Average": 5.513888888888889,
+            "Naturalness": 5.333333333333333,
+            "Faithfulness": 5.388888888888889,
+            "Coherence": 5.666666666666667,
+            "Coverage": 5.666666666666667,
+            "RankMin": 12,
+            "RankMax": 16
+        },
+        "Qwen2.5-7B": {
+            "Average": 5.263888888888889,
+            "Naturalness": 5.111111111111111,
+            "Faithfulness": 5.222222222222222,
+            "Coherence": 5.222222222222222,
+            "Coverage": 5.5,
+            "RankMin": 14,
+            "RankMax": 16
+        },
+        "Llama-3.1-8B": {
+            "Average": 5.152777777777778,
+            "Naturalness": 5.055555555555555,
+            "Faithfulness": 4.888888888888889,
+            "Coherence": 5.222222222222222,
+            "Coverage": 5.444444444444445,
+            "RankMin": 14,
+            "RankMax": 16
+        },
+        "Mistral-7B": {
+            "Average": 3.8333333333333335,
+            "Naturalness": 3.5,
+            "Faithfulness": 3.8333333333333335,
+            "Coherence": 3.611111111111111,
+            "Coverage": 4.388888888888889,
+            "RankMin": 17,
+            "RankMax": 17
+        }
+    },
+    "de": {
+        "Claude-4": {
+            "Average": 6.541666666666667,
+            "Naturalness": 6.055555555555555,
+            "Faithfulness": 6.722222222222222,
+            "Coherence": 6.833333333333333,
+            "Coverage": 6.555555555555555,
+            "RankMin": 1,
+            "RankMax": 8
+        },
+        "Gemini-2.5-Pro": {
+            "Average": 6.513888888888889,
+            "Naturalness": 6.222222222222222,
+            "Faithfulness": 6.5,
+            "Coherence": 6.666666666666667,
+            "Coverage": 6.666666666666667,
+            "RankMin": 1,
+            "RankMax": 8
+        },
+        "AyaExpanse-32B": {
+            "Average": 6.444444444444445,
+            "Naturalness": 6.388888888888889,
+            "Faithfulness": 6.444444444444445,
+            "Coherence": 6.666666666666667,
+            "Coverage": 6.277777777777778,
+            "RankMin": 1,
+            "RankMax": 10
+        },
+        "Qwen3-235B": {
+            "Average": 6.388888888888889,
+            "Naturalness": 6.388888888888889,
+            "Faithfulness": 6.222222222222222,
+            "Coherence": 6.555555555555555,
+            "Coverage": 6.388888888888889,
+            "RankMin": 1,
+            "RankMax": 10
+        },
+        "Mistral-Medium": {
+            "Average": 6.361111111111111,
+            "Naturalness": 6.166666666666667,
+            "Faithfulness": 6.444444444444445,
+            "Coherence": 6.222222222222222,
+            "Coverage": 6.611111111111111,
+            "RankMin": 1,
+            "RankMax": 11
+        },
+        "Gemma-3-12B": {
+            "Average": 6.319444444444445,
+            "Naturalness": 6.111111111111111,
+            "Faithfulness": 6.111111111111111,
+            "Coherence": 6.611111111111111,
+            "Coverage": 6.444444444444445,
+            "RankMin": 1,
+            "RankMax": 10
+        },
+        "GPT-4.1": {
+            "Average": 6.305555555555555,
+            "Naturalness": 6.722222222222222,
+            "Faithfulness": 6.388888888888889,
+            "Coherence": 6.277777777777778,
+            "Coverage": 5.833333333333333,
+            "RankMin": 1,
+            "RankMax": 10
+        },
+        "Gemma-3-27B": {
+            "Average": 6.277777777777778,
+            "Naturalness": 6.055555555555555,
+            "Faithfulness": 6.333333333333333,
+            "Coherence": 6.333333333333333,
+            "Coverage": 6.388888888888889,
+            "RankMin": 1,
+            "RankMax": 10
+        },
+        "DeepSeek-V3": {
+            "Average": 6.25,
+            "Naturalness": 5.722222222222222,
+            "Faithfulness": 6.555555555555555,
+            "Coherence": 6.277777777777778,
+            "Coverage": 6.444444444444445,
+            "RankMin": 3,
+            "RankMax": 10
+        },
+        "CommandA": {
+            "Average": 6.152777777777778,
+            "Naturalness": 5.833333333333333,
+            "Faithfulness": 6.055555555555555,
+            "Coherence": 6.277777777777778,
+            "Coverage": 6.444444444444445,
+            "RankMin": 3,
+            "RankMax": 11
+        },
+        "Llama-4-Maverick": {
+            "Average": 5.861111111111111,
+            "Naturalness": 5.833333333333333,
+            "Faithfulness": 5.888888888888889,
+            "Coherence": 5.944444444444445,
+            "Coverage": 5.777777777777778,
+            "RankMin": 10,
+            "RankMax": 14
+        },
+        "AyaExpanse-8B": {
+            "Average": 5.680555555555555,
+            "Naturalness": 5.111111111111111,
+            "Faithfulness": 5.722222222222222,
+            "Coherence": 6.0,
+            "Coverage": 5.888888888888889,
+            "RankMin": 11,
+            "RankMax": 15
+        },
+        "TowerPlus-72B": {
+            "Average": 5.597222222222222,
+            "Naturalness": 5.111111111111111,
+            "Faithfulness": 5.555555555555555,
+            "Coherence": 5.888888888888889,
+            "Coverage": 5.833333333333333,
+            "RankMin": 11,
+            "RankMax": 15
+        },
+        "TowerPlus-9B": {
+            "Average": 5.541666666666667,
+            "Naturalness": 5.5,
+            "Faithfulness": 5.444444444444445,
+            "Coherence": 6.222222222222222,
+            "Coverage": 5.0,
+            "RankMin": 11,
+            "RankMax": 16
+        },
+        "Qwen2.5-7B": {
+            "Average": 5.208333333333333,
+            "Naturalness": 4.722222222222222,
+            "Faithfulness": 5.222222222222222,
+            "Coherence": 5.444444444444445,
+            "Coverage": 5.444444444444445,
+            "RankMin": 12,
+            "RankMax": 16
+        },
+        "Llama-3.1-8B": {
+            "Average": 4.916666666666667,
+            "Naturalness": 4.555555555555555,
+            "Faithfulness": 4.666666666666667,
+            "Coherence": 5.722222222222222,
+            "Coverage": 4.722222222222222,
+            "RankMin": 14,
+            "RankMax": 16
+        },
+        "Mistral-7B": {
+            "Average": 3.4305555555555554,
+            "Naturalness": 1.7777777777777777,
+            "Faithfulness": 3.7222222222222223,
+            "Coherence": 3.6666666666666665,
+            "Coverage": 4.555555555555555,
+            "RankMin": 17,
+            "RankMax": 17
+        }
+    },
+    "es": {
+        "Claude-4": {
+            "Average": 5.861111111111111,
+            "Naturalness": 5.888888888888889,
+            "Faithfulness": 5.611111111111111,
+            "Coherence": 5.833333333333333,
+            "Coverage": 6.111111111111111,
+            "RankMin": 1,
+            "RankMax": 10
+        },
+        "Gemini-2.5-Pro": {
+            "Average": 5.791666666666667,
+            "Naturalness": 5.5,
+            "Faithfulness": 5.888888888888889,
+            "Coherence": 5.888888888888889,
+            "Coverage": 5.888888888888889,
+            "RankMin": 1,
+            "RankMax": 12
+        },
+        "Qwen3-235B": {
+            "Average": 5.722222222222222,
+            "Naturalness": 5.555555555555555,
+            "Faithfulness": 5.555555555555555,
+            "Coherence": 5.833333333333333,
+            "Coverage": 5.944444444444445,
+            "RankMin": 1,
+            "RankMax": 13
+        },
+        "Mistral-Medium": {
+            "Average": 5.708333333333333,
+            "Naturalness": 5.722222222222222,
+            "Faithfulness": 5.333333333333333,
+            "Coherence": 5.666666666666667,
+            "Coverage": 6.111111111111111,
+            "RankMin": 1,
+            "RankMax": 15
+        },
+        "Gemma-3-27B": {
+            "Average": 5.694444444444445,
+            "Naturalness": 5.777777777777778,
+            "Faithfulness": 5.555555555555555,
+            "Coherence": 5.611111111111111,
+            "Coverage": 5.833333333333333,
+            "RankMin": 1,
+            "RankMax": 14
+        },
+        "GPT-4.1": {
+            "Average": 5.680555555555555,
+            "Naturalness": 5.611111111111111,
+            "Faithfulness": 5.555555555555555,
+            "Coherence": 5.611111111111111,
+            "Coverage": 5.944444444444445,
+            "RankMin": 1,
+            "RankMax": 14
+        },
+        "TowerPlus-9B": {
+            "Average": 5.625,
+            "Naturalness": 5.333333333333333,
+            "Faithfulness": 5.5,
+            "Coherence": 5.833333333333333,
+            "Coverage": 5.833333333333333,
+            "RankMin": 1,
+            "RankMax": 15
+        },
+        "AyaExpanse-32B": {
+            "Average": 5.611111111111111,
+            "Naturalness": 5.611111111111111,
+            "Faithfulness": 5.611111111111111,
+            "Coherence": 5.777777777777778,
+            "Coverage": 5.444444444444445,
+            "RankMin": 1,
+            "RankMax": 15
+        },
+        "CommandA": {
+            "Average": 5.597222222222222,
+            "Naturalness": 5.333333333333333,
+            "Faithfulness": 5.666666666666667,
+            "Coherence": 5.555555555555555,
+            "Coverage": 5.833333333333333,
+            "RankMin": 1,
+            "RankMax": 15
+        },
+        "TowerPlus-72B": {
+            "Average": 5.583333333333333,
+            "Naturalness": 5.388888888888889,
+            "Faithfulness": 5.444444444444445,
+            "Coherence": 5.5,
+            "Coverage": 6.0,
+            "RankMin": 1,
+            "RankMax": 15
+        },
+        "DeepSeek-V3": {
+            "Average": 5.569444444444445,
+            "Naturalness": 5.166666666666667,
+            "Faithfulness": 5.666666666666667,
+            "Coherence": 5.555555555555555,
+            "Coverage": 5.888888888888889,
+            "RankMin": 2,
+            "RankMax": 15
+        },
+        "Llama-4-Maverick": {
+            "Average": 5.541666666666667,
+            "Naturalness": 5.5,
+            "Faithfulness": 5.277777777777778,
+            "Coherence": 5.722222222222222,
+            "Coverage": 5.666666666666667,
+            "RankMin": 1,
+            "RankMax": 15
+        },
+        "Gemma-3-12B": {
+            "Average": 5.5,
+            "Naturalness": 5.333333333333333,
+            "Faithfulness": 5.611111111111111,
+            "Coherence": 5.611111111111111,
+            "Coverage": 5.444444444444445,
+            "RankMin": 3,
+            "RankMax": 15
+        },
+        "Qwen2.5-7B": {
+            "Average": 5.430555555555555,
+            "Naturalness": 5.055555555555555,
+            "Faithfulness": 5.333333333333333,
+            "Coherence": 5.833333333333333,
+            "Coverage": 5.5,
+            "RankMin": 4,
+            "RankMax": 16
+        },
+        "AyaExpanse-8B": {
+            "Average": 5.277777777777778,
+            "Naturalness": 5.222222222222222,
+            "Faithfulness": 4.777777777777778,
+            "Coherence": 5.722222222222222,
+            "Coverage": 5.388888888888889,
+            "RankMin": 7,
+            "RankMax": 16
+        },
+        "Llama-3.1-8B": {
+            "Average": 5.041666666666667,
+            "Naturalness": 5.055555555555555,
+            "Faithfulness": 5.0,
+            "Coherence": 4.833333333333333,
+            "Coverage": 5.277777777777778,
+            "RankMin": 14,
+            "RankMax": 16
+        },
+        "Mistral-7B": {
+            "Average": 3.888888888888889,
+            "Naturalness": 3.388888888888889,
+            "Faithfulness": 3.611111111111111,
+            "Coherence": 4.166666666666667,
+            "Coverage": 4.388888888888889,
+            "RankMin": 17,
+            "RankMax": 17
+        }
+    },
+    "ar": {
+        "Gemini-2.5-Pro": {
+            "Average": 5.569444444444445,
+            "Naturalness": 5.444444444444445,
+            "Faithfulness": 5.555555555555555,
+            "Coherence": 5.722222222222222,
+            "Coverage": 5.555555555555555,
+            "RankMin": 1,
+            "RankMax": 2
+        },
+        "GPT-4.1": {
+            "Average": 5.555555555555555,
+            "Naturalness": 5.166666666666667,
+            "Faithfulness": 5.722222222222222,
+            "Coherence": 5.611111111111111,
+            "Coverage": 5.722222222222222,
+            "RankMin": 1,
+            "RankMax": 3
+        },
+        "Claude-4": {
+            "Average": 5.305555555555555,
+            "Naturalness": 5.166666666666667,
+            "Faithfulness": 5.222222222222222,
+            "Coherence": 5.444444444444445,
+            "Coverage": 5.388888888888889,
+            "RankMin": 2,
+            "RankMax": 3
+        },
+        "Mistral-Medium": {
+            "Average": 4.944444444444445,
+            "Naturalness": 4.333333333333333,
+            "Faithfulness": 5.222222222222222,
+            "Coherence": 5.166666666666667,
+            "Coverage": 5.055555555555555,
+            "RankMin": 4,
+            "RankMax": 10
+        },
+        "DeepSeek-V3": {
+            "Average": 4.902777777777778,
+            "Naturalness": 4.166666666666667,
+            "Faithfulness": 5.388888888888889,
+            "Coherence": 5.055555555555555,
+            "Coverage": 5.0,
+            "RankMin": 4,
+            "RankMax": 11
+        },
+        "AyaExpanse-32B": {
+            "Average": 4.888888888888889,
+            "Naturalness": 4.222222222222222,
+            "Faithfulness": 5.388888888888889,
+            "Coherence": 5.166666666666667,
+            "Coverage": 4.777777777777778,
+            "RankMin": 4,
+            "RankMax": 11
+        },
+        "Gemma-3-27B": {
+            "Average": 4.819444444444445,
+            "Naturalness": 4.222222222222222,
+            "Faithfulness": 5.222222222222222,
+            "Coherence": 5.111111111111111,
+            "Coverage": 4.722222222222222,
+            "RankMin": 4,
+            "RankMax": 11
+        },
+        "CommandA": {
+            "Average": 4.819444444444445,
+            "Naturalness": 4.166666666666667,
+            "Faithfulness": 5.111111111111111,
+            "Coherence": 4.888888888888889,
+            "Coverage": 5.111111111111111,
+            "RankMin": 4,
+            "RankMax": 11
+        },
+        "Llama-4-Maverick": {
+            "Average": 4.708333333333333,
+            "Naturalness": 4.611111111111111,
+            "Faithfulness": 4.722222222222222,
+            "Coherence": 5.0,
+            "Coverage": 4.5,
+            "RankMin": 4,
+            "RankMax": 11
+        },
+        "Gemma-3-12B": {
+            "Average": 4.694444444444445,
+            "Naturalness": 4.111111111111111,
+            "Faithfulness": 5.111111111111111,
+            "Coherence": 4.833333333333333,
+            "Coverage": 4.722222222222222,
+            "RankMin": 4,
+            "RankMax": 11
+        },
+        "AyaExpanse-8B": {
+            "Average": 4.486111111111111,
+            "Naturalness": 3.2777777777777777,
+            "Faithfulness": 5.166666666666667,
+            "Coherence": 4.777777777777778,
+            "Coverage": 4.722222222222222,
+            "RankMin": 5,
+            "RankMax": 12
+        },
+        "Qwen3-235B": {
+            "Average": 4.125,
+            "Naturalness": 3.0,
+            "Faithfulness": 4.5,
+            "Coherence": 4.444444444444445,
+            "Coverage": 4.555555555555555,
+            "RankMin": 11,
+            "RankMax": 12
+        },
+        "Llama-3.1-8B": {
+            "Average": 2.7083333333333335,
+            "Naturalness": 2.388888888888889,
+            "Faithfulness": 2.9444444444444446,
+            "Coherence": 2.888888888888889,
+            "Coverage": 2.611111111111111,
+            "RankMin": 13,
+            "RankMax": 16
+        },
+        "Qwen2.5-7B": {
+            "Average": 2.6527777777777777,
+            "Naturalness": 2.388888888888889,
+            "Faithfulness": 3.0,
+            "Coherence": 2.5555555555555554,
+            "Coverage": 2.6666666666666665,
+            "RankMin": 13,
+            "RankMax": 16
+        },
+        "TowerPlus-72B": {
+            "Average": 2.486111111111111,
+            "Naturalness": 2.0,
+            "Faithfulness": 3.0,
+            "Coherence": 2.388888888888889,
+            "Coverage": 2.5555555555555554,
+            "RankMin": 13,
+            "RankMax": 16
+        },
+        "TowerPlus-9B": {
+            "Average": 2.2777777777777777,
+            "Naturalness": 1.8888888888888888,
+            "Faithfulness": 2.7777777777777777,
+            "Coherence": 2.111111111111111,
+            "Coverage": 2.3333333333333335,
+            "RankMin": 13,
+            "RankMax": 16
+        },
+        "Mistral-7B": {
+            "Average": 1.5694444444444444,
+            "Naturalness": 1.4444444444444444,
+            "Faithfulness": 1.6666666666666667,
+            "Coherence": 1.5,
+            "Coverage": 1.6666666666666667,
+            "RankMin": 17,
+            "RankMax": 17
+        }
+    }
+}
