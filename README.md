@@ -23,16 +23,16 @@ See `data/humeval_aggregated/` for aggregated human evaluation results:
 - `data/humeval_aggregated/xsum.json` for cross-lingual summarization evaluated on Likert-7 across multiple dimensions,
 - `data/humeval_aggregated/judge_xlsum.json` for LLM-as-a-judge of cross-lingual summarization results,
 - `data/humeval_aggregated/oeg.json` for open-ended generation evaluated on Likert-7 across multiple dimensions,
-- `data/humeval_aggregated/judge_xlsum.json` for LLM-as-a-judge of open-ended generation results,
+- `data/humeval_aggregated/judge_oeg.json` for LLM-as-a-judge of open-ended generation results,
 - `data/humeval_aggregated/mt.json` for machine translation (taken from [WMT25 General Machine Translation Shared Task](https://github.com/wmt-conference/wmt25-general-mt)),
 - `data/humeval_aggregated/judge_mt.json` for LLM-as-a-judge for machine translation (taken from [WMT25 Automated Translation Quality Evaluation Systems](https://github.com/wmt-conference/wmt25-general-mt)),
-- `data/humeval_aggregated/mt.json` for linguistic reasoning task.
+- `data/humeval_aggregated/lr.json` for linguistic reasoning task.
 
 See `data/humeval/` for per-item evaluation results:
-- `data/mt.json` for translation evaluation results,
-- `data/xlsum.json` for cross-lingual summarization evaluation results,
-- `data/oeg.json` for open-ended generation evaluation results,
-- `data/lr.json` for linguistic reasoning evaluation results.
+- `data/xlsum.json` for cross-lingual summarization human evaluation results,
+- `data/oeg.json` for open-ended generation human evaluation results,
+- `data/lr.json` for linguistic reasoning gold answers.
+- For machine translation evaluation results, see [github.com/wmt-conference/wmt25-general-mt/blob/main/data/wmt25-genmt-humeval.jsonl](https://github.com/wmt-conference/wmt25-general-mt/blob/main/data/wmt25-genmt-humeval.jsonl)
 
 ## Other
 
