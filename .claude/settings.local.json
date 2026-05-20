@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3:*)",
+      "Bash(jupyter nbconvert:*)",
+      "Bash(wait)",
+      "Bash(curl -sI \"https://tinyurl.com/flores200dataset\")",
+      "Bash(curl -sI \"https://github.com/facebookresearch/flores/releases/download/v2.0-rc.2/flores200_dataset.tar.gz\")",
+      "Bash(tar -tzf /tmp/flores200.tar.gz)"
+    ]
+  }
+}
